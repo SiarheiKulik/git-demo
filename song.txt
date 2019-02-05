@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 la-la-la
 bla-bla-bla
 
@@ -5,3 +6,7 @@ second couplet
 some text
 some content
 new ----
+=======
+la-la-la-bla
+bla-bla
+>>>>>>> 4f008965ce5b2d8a5f291544d2fbecad726e1bb5
