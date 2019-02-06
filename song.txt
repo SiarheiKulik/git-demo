@@ -4,16 +4,7 @@ bla-bla-bla
 
 second couplet
 some text
-<<<<<<< HEAD
-some content
-new ----
-=======
-la-la-la-bla
-bla-bla
->>>>>>> 4f008965ce5b2d8a5f291544d2fbecad726e1bb5
-=======
-some content
->>>>>>> parent of 6e895f8... unnesessary commit
+
 
 third couplet
 ha-ha-ha
